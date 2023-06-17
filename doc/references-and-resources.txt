@@ -1,0 +1,23 @@
+The impetus was to explore Sequence of Return Risk by
+1. Creating realistic sequence of returns (monthly, quarterly or anually)
+2. Creating a methodology for withdrawing during retirement
+3. Monte Carlo testing of the methodology against sequence of returns
+
+Resources
+https://www.kitces.com/blog/url-upside-potential-sequence-of-return-risk-in-retirement-median-final-wealth/
+
+
+Code References
+https://pythoninoffice.com/time-series-modeling-to-predict-stock-price-using-python/
+- Pulling stock values from Yahoo
+- Training stock models using pdmarima
+
+https://github.com/richard303d/MediumNotebooks/blob/main/How_to_simulate_financial_portfolios_with_Python.ipynb
+- Generalized Brownian Motion
+
+Action Items
+- [x] create models
+- [ ] create MC loop
+- [ ] create portfolios - just cash and stock for now
+- [ ] create strategies - target income and cash balancing between cash/stock
+- [ ] simulate
